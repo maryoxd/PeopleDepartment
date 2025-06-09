@@ -6,12 +6,16 @@
 - **PeopleDepartment.ReportConsoleApp** – A console application for generating department reports based on provided CSV input and template files.  
 - **PeopleDepartment.ViewerWpfApp** – A WPF application that allows users to load and view faculty department information dynamically.  
 
+---
+
 ## 📌 Features  
 - **Employee and department management** – Organizes staff and PhD students into departments.  
 - **Report generation** – Creates structured reports based on CSV input.  
 - **Template-based output** – Uses predefined templates for report formatting.  
 - **WPF Viewer application** – Interactive UI for displaying and filtering department data.  
 - **Console report generation** – Command-line tool for structured data output.  
+
+---
 
 ## 🛠 Technologies Used  
 - **C# (.NET Core / .NET Framework)**  
@@ -20,15 +24,3 @@
 - **MVVM Architecture for WPF**  
 - **Class Library for Data Abstraction**  
 
-## 🚀 How to Install & Run  
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/maryoxd/PeopleDepartment.git  
-   cd PeopleDepartment  
-2. **Build and run the Console Application:**
-   ```bash
-   dotnet build  
-   dotnet run --project PeopleDepartment.ReportConsoleApp
-3. **Run the WPF Viewer Application:**
-   ```bash
-   dotnet run --project PeopleDepartment.ViewerWpfApp  
