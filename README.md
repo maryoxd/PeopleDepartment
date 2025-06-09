@@ -24,3 +24,4 @@
 - **MVVM Architecture for WPF**  
 - **Class Library for Data Abstraction**  
 
+---
